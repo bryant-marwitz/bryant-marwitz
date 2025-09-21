@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Bryant! </h1>
+
+<h2> These are my cybersecurity and development projects: </h2>
+<h3> In Progress SIEM Lab <h3>
+  
+<h2> Certifications </h2>
+
+- COMPTIA Security+ 
+
+<h2> 🤳 Connect with me:</h2>
 
 <!--
 **bryant-marwitz/bryant-marwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
