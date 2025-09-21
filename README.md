@@ -1,25 +1,29 @@
-<h1>Hi, I'm Bryant! </h1>
+# Hi, I'm Bryant! 👋  
+🎯 Transitioning from health science and sales into cybersecurity, blending technical rigor with creative flair.
 
-<h2> These are my cybersecurity and development projects: </h2>
-<h3> In Progress SIEM Lab <h3>
-  
-<h2> Certifications </h2>
+## 🔐 Cybersecurity & Development Projects  
+- 🚧 **SIEM Lab (In Progress)** — Building hands-on experience with log analysis, threat detection, and incident response  
+- 🛠️ **HTML5/CSS Portfolio** — Responsive design with semantic structure and accessibility best practices  
+- 🧠 **Security+ Study Notes** — Scenario-based breakdowns of attack types, protocols, and access control models  
 
-- COMPTIA Security+ 
+## 📜 Certifications  
+- ✅ COMPTIA Security+
 
-<h2> 🤳 Connect with me:</h2>
+## 🌱 Currently Learning  
+- C++, Nmap, Splunk, Nessus  
+- Windows/Linux environments  
+- Security+ blue team tactics  
 
+## 🤝 Let's Connect  
+- 💬 Ask me about pivoting into tech, SIEM setups, or creative ways to explain cybersecurity  
+- 📫 Reach me via [LinkedIn](www.linkedin.com/in/bryant-marwitz) or [Email](bryantmarwitz@gmail.com)  
 <!--
-**bryant-marwitz/bryant-marwitz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**bryant-marwitz/bryant-marwitz** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+Ideas to expand:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I once dramatized a cybersecurity concept as a medieval siege.
 -->
