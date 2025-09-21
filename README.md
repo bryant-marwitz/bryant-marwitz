@@ -1,5 +1,5 @@
 # Hi, I'm Bryant! 👋  
-🎯 Transitioning from health science into cybersecurity, blending technical rigor with creative flair.
+Transitioning from health science into cybersecurity, blending technical rigor with creative flair.
 
 ## 🔐 Cybersecurity & Development Projects  
 - 🚧 **SIEM Lab (In Progress)** — Building hands-on experience with log analysis, threat detection, and incident response  
@@ -7,7 +7,8 @@
 - 🧠 **Security+ Study Notes** — Scenario-based breakdowns of attack types, protocols, and access control models  
 
 ## 📜 Certifications  
-- ✅ COMPTIA Security+
+- COMPTIA Security+
+- Google Cyber Security _in progress_
 
 ## 🌱 Currently Learning  
 - C++, Nmap, Splunk, Nessus  
