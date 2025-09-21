@@ -1,5 +1,5 @@
 # Hi, I'm Bryant! 👋  
-🎯 Transitioning from health science and sales into cybersecurity, blending technical rigor with creative flair.
+🎯 Transitioning from health science into cybersecurity, blending technical rigor with creative flair.
 
 ## 🔐 Cybersecurity & Development Projects  
 - 🚧 **SIEM Lab (In Progress)** — Building hands-on experience with log analysis, threat detection, and incident response  
