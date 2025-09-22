@@ -1,5 +1,5 @@
 # Hi, I'm Bryant! 👋  
-Transitioning from health science into cybersecurity, blending technical rigor with creative flair.
+Transitioning from the health science field into cybersecurity, blending technical rigor with creative flair.
 
 ## 🔐 Cybersecurity & Development Projects  
 - 🚧 **SIEM Lab (In Progress)** — Building hands-on experience with log analysis, threat detection, and incident response  
@@ -11,18 +11,8 @@ Transitioning from health science into cybersecurity, blending technical rigor w
 ## 🌱 Currently Learning  
 - C++, Nmap, Splunk, Nessus  
 - Windows/Linux environments  
-- Security+ blue team tactics  
+- Security+ blue team tactics
 
 ## 🤝 Let's Connect  
 - 💬 Ask me about pivoting into tech, SIEM setups, or creative ways to explain cybersecurity  
-- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/bryant-marwitz) or [Contact me @ ](mailto:bryantmarwitz@gmail.com)  
-<!--
-**bryant-marwitz/bryant-marwitz** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
-
-Ideas to expand:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- ⚡ Fun fact: I once dramatized a cybersecurity concept as a medieval siege.
--->
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/bryant-marwitz) or [Contact me @ bryantmarwitz@gmail.com](mailto:bryantmarwitz@gmail.com)  
