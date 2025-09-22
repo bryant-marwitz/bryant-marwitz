@@ -15,7 +15,7 @@ Transitioning from health science into cybersecurity, blending technical rigor w
 
 ## 🤝 Let's Connect  
 - 💬 Ask me about pivoting into tech, SIEM setups, or creative ways to explain cybersecurity  
-- 📫 Reach me via [LinkedIn](www.linkedin.com/in/bryant-marwitz) or [Email](bryantmarwitz@gmail.com)  
+- 📫 [Connect with me on LinkedIn](https://www.linkedin.com/in/bryant-marwitz) or [Email](bryantmarwitz@gmail.com)  
 <!--
 **bryant-marwitz/bryant-marwitz** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
 
