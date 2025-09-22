@@ -3,8 +3,6 @@ Transitioning from health science into cybersecurity, blending technical rigor w
 
 ## 🔐 Cybersecurity & Development Projects  
 - 🚧 **SIEM Lab (In Progress)** — Building hands-on experience with log analysis, threat detection, and incident response  
-- 🛠️ **HTML5/CSS Portfolio** — Responsive design with semantic structure and accessibility best practices  
-- 🧠 **Security+ Study Notes** — Scenario-based breakdowns of attack types, protocols, and access control models  
 
 ## 📜 Certifications  
 - COMPTIA Security+
